@@ -1,0 +1,6 @@
+GET http://ja.tak-cslab.org/
+GET https://ja.tak-cslab.org/?cat=4
+GET https://ja.tak-cslab.org/?page_id=206
+GET https://ja.tak-cslab.org/?author=8
+GET https://ja.tak-cslab.org/?s=hello
+
