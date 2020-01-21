@@ -1,4 +1,4 @@
-rate := 50/1
+rate := 50
 duration := 5
 
 attack:
